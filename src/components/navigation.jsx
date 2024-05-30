@@ -1,4 +1,5 @@
 import React from "react";
+import logo from '../images/college-logo.jpeg'
 
 export const Navigation = (props) => {
   return (
@@ -18,7 +19,7 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
           </button>
           <a className="navbar-brand page-scroll " href="#page-top">
-          Govt. Girls Polytechnic Raipur
+         <img src={logo} height="64px"/> <p className="line-height-64">Govt. Girls Polytechnic Raipur</p>
           </a>{" "}
         </div>
 
@@ -29,7 +30,7 @@ export const Navigation = (props) => {
           <ul className="nav navbar-nav navbar-right">
             <li>
               <a href="#features" className="page-scroll">
-                Features
+                Branches
               </a>
             </li>
             <li>
@@ -39,7 +40,7 @@ export const Navigation = (props) => {
             </li>
             <li>
               <a href="#services" className="page-scroll">
-                Services
+                Recruitments
               </a>
             </li>
             <li>
@@ -47,11 +48,11 @@ export const Navigation = (props) => {
                 Gallery
               </a>
             </li>
-            <li>
+            {/* <li>
               <a href="#testimonials" className="page-scroll">
                 Testimonials
               </a>
-            </li>
+            </li> */}
             <li>
               <a href="#team" className="page-scroll">
                 Team

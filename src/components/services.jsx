@@ -3,12 +3,11 @@ import React from "react";
 export const Services = (props) => {
   return (
     <div id="services" className="text-center">
-      <div className="container">
+      <div className="container" style={{width:"100%"}}>
         <div className="section-title">
-          <h2>Our Services</h2>
+          <h2>Our Past Recruitments</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+           Companies that came in our campus thoughtout.
           </p>
         </div>
         <div className="row">

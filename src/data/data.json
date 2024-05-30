@@ -5,7 +5,11 @@
   },
   
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    
+      "paragraph": "It is an honor and privilege to be the Principal of Govt. Girl’s Polytechnic, Raipur, Chhattisgarh, India which stands for excellence and continuously sets highest standards in terms of imparting Technical education to the Girl’s of Chhattisgarh state. On behalf of the entire, Govt. Girl’s Polytechnic, Raipur (CG) family, I am pleased to introduce the institution on the web. Within these electronic pages, we have tried our best to host the vital information needed from time to time. Govt. Girl’s Polytechnic is affiliated to Chhattisgarh Swami Vivekananda University, Bhilai and is approved by All India Council of Technical Education, New Delhi. At present there are seven regular Diploma courses ongoing in the institute. A special cell has been constituted under the scheme for Persons with Disability by MHRD, New Delhi to reinforce self dependency among the Handicap youths. Within this scheme admissions are being done both in regular Diploma courses as well as various employment oriented certificate courses. The institution excels in facilities like large building, wide-spread Residential campus, Auditorium, well equipped Laboratories of modern technology, a Rich library, Hostel, Gymnasium, Sports facilities and enthusiastic Faculty and dedicated Staff to serve for the very purpose of education. The students are well disciplined and bring glory to our institution in academics, extra & co- curricular activities and sports. Our main concern is ensuring that the personal development of the student takes place in an educational environment and the vision is based on hard work, open communication with a strong emphasis on team work and a high level responsibility. We shall try our best for placement of students in good organizations. . This visionary culture allows and emphasizes our wards not only to adopt the present day challenges but also individual responsibilities to the society and our nation at large. I, along with our team of silent workers, well qualified and dedicated faculty, intend to build on this strong foundation and raise the standards in all spheres, to the zenith. The aim is not only to be an able administrator but also to be a friend, philosopher and guide to students one whom they can count on and trust at all times. I assure you that our doors will always be open to the students and their parents for any suggestion or guidance. ",
+      
+      "Regards":  "Dr. Varsha Chaurasia Principal",
+    
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -69,33 +73,61 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Cerat tier"
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Anand Group"
+     
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Layam Group"
+     
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Indian Mentor"
+     
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "VNR seeds pvt Itd Raipur"
+     
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Resillencesoft"
+     
+    },
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Vibgyor"
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Yazaki pvt Ltd"
+     
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Neo Arch"
+     
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Syrma technology pvt Ltd"
+     
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lock and pull"
+     
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Higher education"
+     
     }
   ],
   "Testimonials": [
@@ -132,30 +164,27 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "img": "img/team/faculty1.jpeg",
+      "name": "Bharat Kumar (Msc. physics)",
+      "job": "Lectures, Traning and placement officer",
+      "info":"(CSIR - NET, CG SET, GATE Qualified)",
+      "contact":"Email - bharat162@gmail.com",
+      "contact2":"Phone - 8223090581"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "img": "img/team/faculty2.jpeg",
+      "name": "Ajay chhattar (Msc. chemistry)",
+      "job": "Lectures, Traning and placement officer",
+      "info":"(SET Qualified)",
+      "contact":"Email - ajaychhattar@ggpraipur.ac.in",
+      "contact2":"Phone - 9575906123"
     }
+    
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "Govt girls polytechnic college, byronbazar, raipur, chhattisgarh ",
+    "phone": "+91 957 5906 123",
+    "email": " tpo@ggpraipur.ac.in",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
@@ -163,23 +192,35 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "ETE"
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "CSE"
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "MOM"
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "CDDM"
+    },
+    {
+      "icon": "fa fa-comments-o",
+      "title": "ARCH"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "IDD"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "IT"
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "PHARMACY"
     }
   ]
 }
