@@ -63,6 +63,12 @@ export const Navigation = (props) => {
                 Contact
               </a>
             </li>
+
+            <li className="job-Icon">
+              <a href="/joblist" className="page-scroll">
+                Jobs
+              </a>
+            </li>
           </ul>
         </div>
       </div>

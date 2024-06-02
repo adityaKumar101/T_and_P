@@ -25,49 +25,44 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Computer Science&Engineering",
+      "largeImage": "img/portfolio/cse.jpeg",
+      "smallImage": "img/portfolio/cse.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "Architecture",
+      "largeImage": "img/portfolio/architecture.jpeg",
+      "smallImage": "img/portfolio/architecture.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "Information Technology",
+      "largeImage": "img/portfolio/infotech.jpeg",
+      "smallImage": "img/portfolio/infotech.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "Electronical Engineering and Technology",
+      "largeImage": "img/portfolio/eee.jpeg",
+      "smallImage": "img/portfolio/eee.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "Modern Office Management",
+      "largeImage": "img/portfolio/officemanagement.jpeg",
+      "smallImage": "img/portfolio/officemanagement.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "title": "Pharmacy",
+      "largeImage": "img/portfolio/pharmacy.jpeg",
+      "smallImage": "img/portfolio/pharmacy.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "title": "IDD",
+      "largeImage": "img/portfolio/idd.jpeg",
+      "smallImage": "img/portfolio/idd.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "Costume Design and Dress Making",
+      "largeImage": "img/portfolio/costumeDesign.jpeg",
+      "smallImage": "img/portfolio/costumeDesign.jpeg"
     }
   ],
   "Services": [
